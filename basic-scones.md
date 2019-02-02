@@ -1,7 +1,6 @@
 # Basic Scones 
 
 British Scones :: American Biscuits
-(abbreviated from kingarthurflour.com/recipes/scones-recipe)
 
 Serves 12
 
@@ -49,3 +48,4 @@ Storage - when scones are completely cool, wrap them in plastic and store at roo
 - Roasted strawberry pistachio scones: 2 cups sliced/quartered strawberries + 1tbsp sugar. Bake for 20m at 425F until jammy-looking. Let cool before adding with 1/2 cup chopped pistachios
 - Cheddar, basil, and sun-dried tomato scones: 1 cup grated cheddar, 1/4 cup chopped fresh basil (or 2 tbsp dried basil), 1/2 cup chopped sun-dried tomatoes (not packed in oil)
 
+(abbreviated from kingarthurflour.com/recipes/scones-recipe)
